@@ -14,7 +14,7 @@ Me chamo Jéssica, atualmente, em transição de carreira para a área de tecnol
  <h3 align="left">Conecte-se a mim:</h3>
  <br>
  <br>
- <a href="www.linkedin.com/in/jessica-jfr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/jessica-jfr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
  <a href="https://www.instagram.com/jehfat?igsh=YzV6NmhsMWhhZ3ox" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
  <br>
  <br>
